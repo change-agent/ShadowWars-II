@@ -1,4 +1,4 @@
-# ShadowWarsII
+# ShadowWars II
 Project 2 for SWEN20003: Object Oriented Software Development 2018 (Semester 1)
 
 In this project, I created a graphical space shooter game in the Java programming language, continuing from my work in Project 1 ([ShadowWars](https://github.com/change-agent/ShadowWars)).
